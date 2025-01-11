@@ -350,7 +350,7 @@
 <br>
 <br>
 <h2 align="center">OneNote documentation & Git version control</h2><br>
-<img src="./icons/onenote.png" alt="OneOne docs" style="width: 700; height: 610;" />
+<img src="./icons/onenote.png" alt="OneOne docs" style="width: 50%; height: 50%;" />
 <br><br>
 
 
