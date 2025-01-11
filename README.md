@@ -227,6 +227,7 @@
       <img src="./icons/devicon--reactnative-wordmark.png" alt="React Native" style="width: 20px;">
       <img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
       <img src="./icons/expo.png" alt="Expo" style="width: 20px;">
+            <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
       <img src="./icons/nativewind.png" alt="NativeWind" style="width: 20px;">
       <img src="./icons/stripe.png" alt="Stripe" style="width: 20px;">
       <img src="./icons/postgresql.png" alt="PostgreSQL" style="width: 20px;">
@@ -248,6 +249,7 @@
        <img src="./icons/skill-icons--react-dark.png" alt="React" style="width: 20px;">
 <img src="./icons/logos--vitejs.png" alt="Vite" style="width: 20px;">
 <img src="./icons/shadcn.png" alt="ShadCN" style="width: 20px;">
+      <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
 <img src="./icons/auth0.png" alt="Auth0" style="width: 20px;">
 <img src="./icons/skill-icons--nodejs-dark.png" alt="Node Js" style="width: 20px;">
 <img src="./icons/mongodb.png" alt="MongoDB" style="width: 20px;">
@@ -267,6 +269,7 @@
         Fullstack Web
       </td>
       <td>
+            <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
         <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
         <img src="./icons/mongodb.png" alt="MongoDB" style="width: 20px;">
               <img src="./icons/stripe.png" alt="Stripe" style="width: 20px;">
@@ -291,6 +294,7 @@
       <td>
          <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
 <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
+            <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
 <img src="./icons/shadcn.png" alt="ShadCN" style="width: 20px;">
         <img src="./icons/motion.png" alt="Motion" style="width: 20px;">
 <img src="./icons/stripe.png" alt="Stripe Coonect" style="width: 20px;">
@@ -311,6 +315,7 @@
         Fullstack Web
       </td>
       <td>
+                  <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
         <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
 <img src="./icons/convex.png" alt="Convex" style="width: 20px;">
 <img src="./icons/stripe.png" alt="Stripe Coonect" style="width: 20px;">
