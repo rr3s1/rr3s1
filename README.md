@@ -328,6 +328,11 @@
   </tbody>
 </table>
 
+<h5 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h5><br>
+<img src="https://github.com/user-attachments/assets/8b53af2d-7a9e-4e13-bedc-74ea7e8c16df" alt="OneOne documentation" style="width: 60%; height: 60%;" />
+<br><br>
+
+
 <div align="center">
   
 <br><br>
@@ -353,11 +358,6 @@
 </div>
 <br>
 <br>
-<h5 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h5><br>
-<img src="https://github.com/user-attachments/assets/8b53af2d-7a9e-4e13-bedc-74ea7e8c16df" alt="OneOne documentation" style="width: 60%; height: 60%;" />
-<br><br>
-
-
 
 <br><br>
 <!-- Custom Footer -->
