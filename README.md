@@ -11,7 +11,7 @@
 </div>
 <br> 
 <h1 align="center">
-<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" height="45"><br>My projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
+<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" height="45"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
 </h1>
 
 
@@ -134,7 +134,7 @@
     <tr>
       <td><a href="https://github.com/rr3s1/jsm_storeit">File Management</a></td>
       <td style="text-align: center;">
-        Fullstack
+        Fullstack Web
       </td>
       <td>
       <img src="./icons/skill-icons--nodejs-dark.png" alt="Node Js" style="width: 20px;">
@@ -349,7 +349,7 @@
 </div>
 <br>
 <br>
-<h2 align="center">OneNote documentation & Git version control</h2><br>
+<h5 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h5><br>
 <img src="https://github.com/user-attachments/assets/236fc936-be00-4c91-9571-e44c854cb5eb" alt="OneOne docs" style="width: 60%; height: 60%;" />
 <br><br>
 
