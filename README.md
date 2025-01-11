@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+</p>
+
 <br><br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=✨It's+lovely+to+see+you!" />
@@ -317,7 +321,7 @@
       <td style="text-align: center;">
         6 hours
       </td>
-      <td style="text-align: center;">
+      <td style="text-align: center">
         20 %
       </td>
     </tr>
