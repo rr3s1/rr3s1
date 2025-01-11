@@ -51,7 +51,7 @@
       </td>
     </tr>
   <tr>
-      <td><a href="https://github.com/rr3s1/portfoli0_jsm">Xora Modern UI</a></td>
+      <td><a href="https://github.com/rr3s1/JSM-SaaS-Landing-Page">Xora Modern UI</a></td>
       <td>
         Landing Page
       </td>
@@ -61,7 +61,7 @@
         <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
         <img src="./icons/motion.png" alt="Motion" style="width: 20px;">
        </td>
-      <td><a href="https://www.youtube.com/watch?v=FTH6Dn3AyIQ&t=6761s&ab_channel=JavaScriptMastery">JS Mastery</a></td>
+      <td><a href="https://www.youtube.com/watch?v=ukiGFmZ32YA&t=3s&ab_channel=JavaScriptMastery">JS Mastery</a></td>
       <td>
         2 hours
       </td>
