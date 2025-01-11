@@ -25,7 +25,7 @@
       <th style="text-align: center;">App Type</th>
       <th style="text-align: center;">Tech Stack</th>
       <th style="text-align: center;">Video Ref.</th>
-      <th style="text-align: center;">Video Length</th>
+      <th style="text-align: center;">V. Length</th>
       <th style="text-align: center;">Completed</th>
     </tr>
   </thead>
