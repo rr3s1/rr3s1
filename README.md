@@ -1,7 +1,7 @@
 
 <br><br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=✨+Nice+to+see+you+👋" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=✨It's+lovely+to+see+you!" />
 </div>
 <br>
 
@@ -12,11 +12,9 @@
 
 
 <h1 align="center">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> <br>My projects <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35"><br>
+<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35"><br>My projects <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 </h1>
 
-<h4 align="center">LP - Landing Page</h3>
-<h4 align="center">FS - FullStack</h3>
 <br><br>
 
 <div align="center">
@@ -266,7 +264,6 @@
       </td>
       <td>
         <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
-        <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
         <img src="./icons/mongodb.png" alt="MongoDB" style="width: 20px;">
               <img src="./icons/stripe.png" alt="Stripe" style="width: 20px;">
               <img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
@@ -327,12 +324,9 @@
   </tbody>
 </table>
 
-
-<br>
-
 <div align="center">
   
-
+<br><br>
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 35px; margin-bottom: 35px;">
@@ -353,6 +347,11 @@
   </div>
 </div>
 </div>
+<br>
+<br>
+<h2 align="center">OneNote documentation & Git version control</h2><br>
+<img src="./icons/onenote.png" alt="OneOne docs" style="width: 700; height: 610;" />
+<br><br>
 
 
 
