@@ -6,14 +6,14 @@
 <br>
 
 <div align="center">
-  <img src="github-snake.svg" alt="Snake animation" width="100%"/>
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rr3s1&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </div>
-<br>
-
-
+<br> 
 <h1 align="center">
 <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" height="35"><br>My projects <br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="55"> 
 </h1>
+
 
 <br><br>
 
