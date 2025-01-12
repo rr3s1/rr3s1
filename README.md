@@ -1,22 +1,16 @@
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif">
+  <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="width: 60%; height: auto;" >
 </p>
 
-<br><br>
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=✨It's+lovely+to+see+you!" />
 </div>
-<br>
-
-
-<br> 
+ 
 <h1 align="center">
-<br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" height="45"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" height="45"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
 </h1>
-
-
-<br><br>
+<br>
 
 <div align="center">
 <table>
@@ -329,14 +323,11 @@
     </tr>
   </tbody>
 </table>
-
-<h5 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h5><br>
-<img src="https://github.com/user-attachments/assets/8b53af2d-7a9e-4e13-bedc-74ea7e8c16df" alt="OneOne documentation" style="width: 60%; height: 60%;" />
-<br><br>
-
-
-
 <br>
+<h4 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h4><br>
+<img src="https://github.com/user-attachments/assets/8b53af2d-7a9e-4e13-bedc-74ea7e8c16df" alt="OneOne documentation" style="width: 60%; height: 60%;" />
+
+
 <br>
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
@@ -345,8 +336,7 @@
 </div>
 <div align="center">
   
-<br><br>
-
+<br>
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
   <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 35px; margin-bottom: 35px;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" style="width: 74px; height: 74px;" />
@@ -366,7 +356,13 @@
   </div>
 </div>
 </div>
-<br><br>
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr3s1&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
+</p>
+<br>
+
 <!-- Custom Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
