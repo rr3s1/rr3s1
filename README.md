@@ -9,11 +9,7 @@
 </div>
 <br>
 
-<div align="center">
-  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
-</div>
+
 <br> 
 <h1 align="center">
 <br><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45" height="45"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="65"> 
@@ -339,6 +335,14 @@
 <br><br>
 
 
+
+<br>
+<br>
+<div align="center">
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
+</div>
 <div align="center">
   
 <br><br>
@@ -362,9 +366,6 @@
   </div>
 </div>
 </div>
-<br>
-<br>
-
 <br><br>
 <!-- Custom Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
