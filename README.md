@@ -2,11 +2,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" style="width: 85%; height: 85%;" >
 </p>
-
+ <br>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=✨It's+lovely+to+see+you!" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&letterSpacing=revert-layer&duration=3000&pause=1000&color=DE4E33&center=true&vCenter=true&width=435&lines=%F0%9F%A7%A1+It's+lovely+seeing+you!+%F0%9F%A4%8D" alt="Typing SVG" /></a>
 </div>
- <br><br>
+
+ <br>
 <h1 align="center">
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="75" height="75"><br>Recent projects <br><br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"> 
 </h1>
