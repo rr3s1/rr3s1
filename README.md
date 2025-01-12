@@ -11,7 +11,8 @@
 
 <div align="center">
   <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=rr3s1&theme=github-dark-blue" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
 </div>
 <br> 
 <h1 align="center">
