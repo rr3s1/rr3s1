@@ -329,7 +329,7 @@
 </table>
 <br>
 <h4 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h4><br>
-<img src="https://github.com/user-attachments/assets/8b53af2d-7a9e-4e13-bedc-74ea7e8c16df" alt="OneOne documentation" style="width: 60%; height: 60%;" />
+<img src="https://github.com/user-attachments/assets/db7404a6-2292-4f1e-b32d-6662f5f3ef8b" alt="OneOne documentation" style="width: 60%; height: 60%;" />
 
 
 <br>
