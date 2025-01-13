@@ -170,26 +170,29 @@
     </tr>
     </tr>
      <tr>
-      <td><a href="https://github.com/rr3s1/AIVidShare">Video Sharing App</a></td>
+      <td><a href="https://github.com/rr3s1/BookWise-Uni-Library">BookWise Library</a></td>
       <td style="text-align: center;">
-        Fullstack Mob
+        Fullstack Web
       </td>
       <td> 
-      <img src="./icons/devicon--reactnative-wordmark.png" alt="React Native" style="width: 20px;">
-      <img src="./icons/expo.png" alt="Expo" style="width: 20px;">
-      <img src="./icons/nativewind.png" alt="Expo" style="width: 20px;">
-      <img src="./icons/devicon--appwrite.png" alt="Appwrite" style="width: 20px;">
+      <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
+      <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
+      <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
+      <img src="./icons/postgresql.png" alt="PostgreSQL" style="width: 20px;">
+      <img src="./icons/upstash.png" alt="PostgreSQL" style="width: 20px;">
+      <img src="./icons/imageKit.png" alt="PostgreSQL" style="width: 20px;">
+      <img src="./icons/resent1png.png" alt="PostgreSQL" style="width: 20px;">
       </td>
-      <td><a href="https://www.youtube.com/watch?v=ZBCUegTZF7M&t=976s&ab_channel=JavaScriptMastery">Adrian Hajdin</a></td>
+      <td><a href="https://www.youtube.com/watch?v=EZajJGOMWas&t=501s&ab_channel=JavaScriptMastery">Adrian Hajdin</a></td>
       <td style="text-align: center;">
-       4 hours
+       6 hours
       </td>
       <td style="text-align: center;">
-        3 %
+        0 %
       </td>
     </tr>
      <tr>
-      <td><a href="https://github.com/rr3s1/Real-Estate-MobileApp">Real Estate App</a></td>
+      <td><a href="https://github.com/rr3s1/Real-Estate-MobileApp">Real Estate </a></td>
       <td style="text-align: center;">
         Fullstack Mob
       </td>
