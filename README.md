@@ -179,9 +179,9 @@
       <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
       <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
       <img src="./icons/postgresql.png" alt="PostgreSQL" style="width: 20px;">
-      <img src="./icons/upstash.png" alt="PostgreSQL" style="width: 20px;">
-      <img src="./icons/imageKit.png" alt="PostgreSQL" style="width: 20px;">
-      <img src="./icons/resent1png.png" alt="PostgreSQL" style="width: 20px;">
+      <img src="./icons/upstash.png" alt="Upstash" style="width: 20px;">
+      <img src="./icons/imageKit.png" alt="imageKit" style="width: 20px;">
+      <img src="./icons/resent1png.png" alt="Resent" style="width: 20px;">
       </td>
       <td><a href="https://www.youtube.com/watch?v=EZajJGOMWas&t=501s&ab_channel=JavaScriptMastery">Adrian Hajdin</a></td>
       <td style="text-align: center;">
