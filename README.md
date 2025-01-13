@@ -20,8 +20,8 @@
       <th style="text-align: center;">Project Name</th>
       <th style="text-align: center;">App Type</th>
       <th style="text-align: center;">Tech Stack</th>
-      <th style="text-align: center;">Video Ref.</th>
-      <th style="text-align: center;">V. Length</th>
+      <th style="text-align: center;">Vid Reference</th>
+      <th style="text-align: center;">Vid Duration</th>
       <th style="text-align: center;">Completed</th>
     </tr>
   </thead>
@@ -149,7 +149,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rr3s1/3D-iPhone15-GSAP">iPhone 15 3D</a></td>
+      <td><a href="https://github.com/rr3s1/3D-iPhone15-GSAP"> 3D iPhone clone</a></td>
       <td style="text-align: center;">
         Landing Page
       </td>
@@ -170,7 +170,7 @@
     </tr>
     </tr>
      <tr>
-      <td><a href="https://github.com/rr3s1/BookWise-Uni-Library">BookWise Library</a></td>
+      <td><a href="https://github.com/rr3s1/BookWise-Uni-Library">University Library</a></td>
       <td style="text-align: center;">
         Fullstack Web
       </td>
@@ -181,7 +181,8 @@
       <img src="./icons/postgresql.png" alt="PostgreSQL" style="width: 20px;">
       <img src="./icons/upstash.png" alt="Upstash" style="width: 20px;">
       <img src="./icons/imageKit.png" alt="imageKit" style="width: 20px;">
-      <img src="./icons/resent1.png" alt="Resent" style="width: 21px; height: 21px">
+      <img src="./icons/resent1.png" alt="Resent" style="width: 20px; ">
+      <img src="./icons/simple-icons--drizzle.png" alt="Drizzle" style="width: 20px;">
       </td>
       <td><a href="https://www.youtube.com/watch?v=EZajJGOMWas&t=501s&ab_channel=JavaScriptMastery">Adrian Hajdin</a></td>
       <td style="text-align: center;">
@@ -192,7 +193,7 @@
       </td>
     </tr>
      <tr>
-      <td><a href="https://github.com/rr3s1/Real-Estate-MobileApp">Real Estate </a></td>
+      <td><a href="https://github.com/rr3s1/Real-Estate-MobileApp">Real Estate</a></td>
       <td style="text-align: center;">
         Fullstack Mob
       </td>
@@ -282,7 +283,7 @@
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/rr3s1/LearnHeaven-App">Learning Platform</a></td>
+      <td><a href="https://github.com/rr3s1/LearnHeaven-App">Tutorials Platform</a></td>
       <td style="text-align: center;">
         Fullstack Web
       </td>
@@ -291,10 +292,10 @@
 <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
             <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
 <img src="./icons/shadcn.png" alt="ShadCN" style="width: 20px;">
-        <img src="./icons/motion.png" alt="Motion" style="width: 20px;">
-<img src="./icons/stripe.png" alt="Stripe Coonect" style="width: 20px;">
- <img src="./icons/aws.png" alt="AWS" style="width: 20px;">  
- <img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
+<img src="./icons/motion.png" alt="Motion" style="width: 20px;">
+<img src="./icons/stripe.png" alt="Stripe Connect" style="width: 20px;">
+<img src="./icons/aws.png" alt="AWS" style="width: 20px;">  
+<img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
       </td>
       <td><a href="https://www.youtube.com/watch?v=61vSIrg70xM&t=238s&ab_channel=EdRoh">Ed Roh</a></td>
       <td style="text-align: center;">
@@ -313,7 +314,7 @@
                   <img src="./icons/skill-icons--typescript.png" alt="TypeScript" style="width: 20px;">
         <img src="./icons/devicon-plain--nextjs.png" alt="Next JS" style="width: 20px;">
 <img src="./icons/convex.png" alt="Convex" style="width: 20px;">
-<img src="./icons/stripe.png" alt="Stripe Coonect" style="width: 20px;">
+<img src="./icons/stripe.png" alt="Stripe Connect" style="width: 20px;">
 <img src="./icons/simple-icons--clerk.png" alt="Clerk" style="width: 20px;">
 <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
 <img src="./icons/shadcn.png" alt="ShadCN" style="width: 20px;">
