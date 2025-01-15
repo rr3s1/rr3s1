@@ -189,7 +189,7 @@
        6 hours
       </td>
       <td style="text-align: center;">
-        0 %
+        18 %
       </td>
     </tr>
      <tr>
@@ -329,7 +329,7 @@
   </tbody>
 </table>
 <br>
-<h4 align="center">I’m documenting my projects in OneNote and managing code versions with Git</h4><br>
+<h4 align="center">OneNote documentation</h4><br>
 <img src="https://github.com/user-attachments/assets/db7404a6-2292-4f1e-b32d-6662f5f3ef8b" alt="OneOne documentation" style="width: 60%; height: 60%;" />
 
 
