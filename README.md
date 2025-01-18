@@ -279,7 +279,7 @@
        10 hours
       </td>
       <td style="text-align: center;">
-        7 %
+      11 %
       </td>
     </tr>
     <tr>
