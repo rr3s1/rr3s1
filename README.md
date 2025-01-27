@@ -192,6 +192,25 @@
         18 %
       </td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/rr3s1/BookWise-Uni-Library">Movies R19</a></td>
+      <td style="text-align: center;">
+        Fullstack Web
+      </td>
+      <td>
+      <img src="./icons/logos--vitejs.png" alt="Vite" style="width: 20px;">
+      <img src="./icons/devicon--tailwindcss.png" alt="TailwindCSS" style="width: 20px;">
+      <img src="./icons/skill-icons--react-dark.png" alt="React" style="width: 20px;">
+      <img src="./icons/devicon--appwrite.png" alt="Appwrite" style="width: 20px;">
+      </td>
+      <td><a href="https://www.youtube.com/watch?v=dCLhUialKPQ&t=365s">Adrian Hajdin</a></td>
+      <td style="text-align: center;">
+       2 hours
+      </td>
+      <td style="text-align: center;">
+        2 %
+      </td>
+    </tr>
      <tr>
       <td><a href="https://github.com/rr3s1/Real-Estate-MobileApp">Real Estate</a></td>
       <td style="text-align: center;">
