@@ -43,7 +43,7 @@
         2 hours
       </td>
       <td style="text-align: center;">
-        Sep 2024
+        99%
       </td>
     </tr>
   <tr>
@@ -62,7 +62,7 @@
         2 hours
       </td>
       <td style="text-align: center;">
-        Oct 2024
+        99%
       </td>
     </tr>
      <tr>
@@ -83,7 +83,7 @@
         3 hours
       </td>
       <td style="text-align: center;">
-        Oct 2024
+        99%
       </td>
     </tr>
     <tr>
@@ -104,7 +104,7 @@
         5 hours
       </td style="text-align: center;">
       <td style="text-align: center;">
-        Nov 2024
+        99%
       </td>
     </tr>
      <tr>
@@ -124,7 +124,7 @@
         2 hours
       </td>
       <td style="text-align: center;">
-        Nov 2024
+        99%
       </td>
     </tr>
     <tr>
@@ -145,7 +145,7 @@
         5 hours
       </td>
       <td style="text-align: center;">
-        Dec 2024
+        99%
       </td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@
         3 hours
       </td>
       <td style="text-align: center;">
-        Dec 2024
+        99%
       </td>
     </tr>
     </tr>
@@ -349,7 +349,7 @@
 </table>
 <br>
 <h4 align="center">OneNote documentation</h4><br>
-<img src="https://github.com/user-attachments/assets/db7404a6-2292-4f1e-b32d-6662f5f3ef8b" alt="OneOne documentation" style="width: 60%; height: 60%;" />
+<img src="https://github.com/user-attachments/assets/6234887f-5dc3-4720-aef6-80ea0bd5c1f3" alt="OneOne documentation" style="width: 60%; height: 60%;" />
 
 
 <br>
