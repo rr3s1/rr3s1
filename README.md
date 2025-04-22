@@ -347,9 +347,7 @@
     </tr>
   </tbody>
 </table>
-<br>
-<h4 align="center">OneNote documentation</h4><br>
-<img src="https://github.com/user-attachments/assets/6234887f-5dc3-4720-aef6-80ea0bd5c1f3" alt="OneOne documentation" style="width: 60%; height: 60%;" />
+
 
 
 <br>
