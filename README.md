@@ -37,28 +37,24 @@
     <td width="50%">
       <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">Healthcare Management System</a></h3>
       <p align="center">A full-stack patient management system allowing appointment booking, admin management, and SMS notifications. Demonstrates skills in Next.js, TypeScript, Appwrite, TailwindCSS, ShadCN, and Twilio integration.</p>
-      <p align="center"><i>Status: Completed (Tutorial-Based)</i></p>
     </td>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">University Library System</a></h3>
       <p align="center">Production-grade library platform with public/admin interfaces, book borrowing workflows, reminders via Resend, and robust user management using Next.js, TypeScript, PostgreSQL (NeonDB), Upstash (Redis), Drizzle ORM, and ImageKit.</p>
-       <p align="center"><i>Status: In Progress (Tutorial-Based)</i></p> <!-- Updated status based on original 50% -->
     </td>
   </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">File Storage & Sharing Platform</a></h3>
       <p align="center">A platform for file uploads, management, sharing, and viewing using Next.js 15, React 19, Appwrite, TailwindCSS, ShadCN, and TypeScript. Features include user auth, file operations, and a dashboard.</p>
-      <p align="center"><i>Status: Completed (Tutorial-Based)</i></p>
     </td>
     <td width="50%">
        <h3 align="center"><a href="https://github.com/rr3s1/portfoli0_jsm">Modern Next.js Portfolio</a></h3>
        <p align="center">An interactive portfolio landing page built with Next.js, Three.js for 3D elements, Framer Motion for animations, and TailwindCSS. Showcases modern frontend techniques and complex layouts like Bento Grids.</p>
-       <p align="center"><i>Status: Completed (Tutorial-Based)</i></p>
     </td>
   </tr>
 </table>
-<p align="center"><i>Note: Many of these projects are based on excellent tutorials (credited in respective READMEs) as part of my skill development process. I am actively working towards building more original projects.</i></p>
+<p align="center"><i>Note: These projects are based on excellent tutorials (credited in respective READMEs) as part of my skill development process.</i></p>
 <br>
 
 
