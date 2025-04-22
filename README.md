@@ -93,10 +93,13 @@
 <h2 align="center">🎯 Current Focus</h2>
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
-    <li>🔭 Working on <strong>AI-Powered Developer Tools</strong></li>
-    <li>👯 Looking to collaborate on <strong>Open Source Projects</strong></li>
-    <li>📫 How to reach me: <strong>Portfolio coming soon!</strong></li>
+    <p>🔭 Working on <strong>AI-Powered Developer Tools</strong></p>
+    <p>👯 Looking to collaborate on <strong>Open Source Projects</strong></p>
+    <>📫 How to reach me: <strong>Portfolio coming soon!</strong></p>
   </ul>
 </div>
 
 <br>
+
+<!-- Footer - Kept the waving capsule -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170§ion=footer" width="150%"/>
