@@ -189,7 +189,7 @@
        6 hours
       </td>
       <td style="text-align: center;">
-        18 %
+        50 %
       </td>
     </tr>
      <tr>
@@ -329,7 +329,7 @@
     <tr>
       <td><a href="https://github.com/rr3s1/BookWise-Uni-Library">Movies R19</a></td>
       <td style="text-align: center;">
-        Fullstack Web
+        Landing + DB 
       </td>
       <td>
       <img src="./icons/logos--vitejs.png" alt="Vite" style="width: 20px;">
