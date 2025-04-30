@@ -4,15 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=75" alt="header"/>
 </p>
  <br>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script&weight=700&size=40&letterSpacing=revert-layer&duration=3000&pause=1000&color=DE4E33&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Learning+%26+Crafting+%F0%9F%A7%A1" alt="Typing SVG" /></a>
-</div>
-<br>
-<br>
 
 
 <p align="center">
-  Hi there! I'm a passionate developer actively honing my skills in modern web and mobile application development. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Next.js, TypeScript, and Node.js to create engaging digital experiences. 
+  I'm a passionate developer actively honing my skills in modern web and mobile application development. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Next.js, TypeScript, and Node.js to create engaging digital experiences. 
 </p>
 
 <br>
