@@ -13,7 +13,7 @@
 <br>
 <h2 align="center">
   <a href="https://github.com/rr3s1/portfolio">
-    👉 Check out my Portfolio 👈
+    👉 Check out my Portfolio Landing Page 👈
   </a>
 </h2>
 <br>
