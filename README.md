@@ -6,9 +6,9 @@
  <br>
 
 
-<p align="center">
+<h3 align="center">
   I'm a passionate developer actively honing my skills in modern web and mobile application development. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Next.js, TypeScript, and Node.js to create engaging digital experiences. 
-</p>
+</h3>
 
 <br>
 <h2 align="center">
@@ -31,8 +31,8 @@
 <h2 align="center">🎯 Current Focus</h2>
 <div align="center">
   <ul style="list-style-type: none; padding: 0;">
-    <p>🔭 Working on <strong>Web Apps AI Integration</strong></p>
-    <p>👯 Looking to collaborate on <strong>Open Source Projects</strong></p>
+    <h3>🔭 Working on <strong>Web Apps AI Integration</strong></h3>
+    <h3>👯 Looking to collaborate on <strong>Open Source Projects</strong></h3>
   </ul>
 </div>
 <br><br>
