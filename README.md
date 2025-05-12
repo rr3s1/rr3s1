@@ -12,10 +12,12 @@
 
 <br>
 <h2 align="center">
-  <a href="https://github.com/rr3s1/portfolio">
+  <a href="https://portfolio-nine-lime-35.vercel.app/">
     👉 Check out my Portfolio Landing Page 👈
   </a>
 </h2>
+
+<br/>
 <br>
 <h1 align="center">
 💻 Tech Stack & Skills 💻
