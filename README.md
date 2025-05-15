@@ -11,11 +11,11 @@
 </h3>
 
 <br>
-<h2 align="center">
+<h1 align="center">
   <a href="https://portfolio-nine-lime-35.vercel.app/">
-    👉 Check out my Portfolio Landing Page 👈
+     Check out 👉 Portfolio Landing Page 👈
   </a>
-</h2>
+</h1>
 
 <br/>
 <br>
