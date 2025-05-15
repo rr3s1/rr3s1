@@ -13,7 +13,7 @@
 <br>
 <h1 align="center">
   <a href="https://portfolio-nine-lime-35.vercel.app/">
-     Check out 👉 Portfolio Landing Page 👈
+     Portfolio Landing Page
   </a>
 </h1>
 
