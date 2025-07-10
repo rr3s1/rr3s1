@@ -7,7 +7,7 @@
 
 
 <h3 align="center">
-  I'm a passionate developer actively honing my skills in modern web and mobile application development. I enjoy building dynamic, user-friendly interfaces and robust backend systems. My focus is on leveraging technologies like React, Next.js, TypeScript, and Node.js to create engaging digital experiences. 
+  I'm a passionate developer specialised in modern web and mobile apps. 
 </h3>
 
 <br>
