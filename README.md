@@ -4,7 +4,7 @@
 </div>
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=50&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+App+Specialist;AI+Integration+Expert;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=50&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
 </div>
 
 <!-- Social Links with Warm Badges -->
