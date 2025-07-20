@@ -32,14 +32,16 @@
     <td width="50%" valign="top" align="center">
       <h4><strong>Frontend & Mobile</strong></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /> <br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" />
+        <br>
         <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,redux,vite" />
       </p>
     </td>
     <td width="50%" valign="top" align="center">
       <h4><strong>Backend & Databases</strong></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi" /> <br>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi"/>
+        <br>
         <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
       </p>
     </td>
@@ -70,7 +72,7 @@
 <h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
 <br>
 <p align="center">A selection of projects that highlight my skills and interests. Full details in each repository.</p>
-<br>
+<b
 <p align="center">See 'Live Demo' for deployments</p>
 <table align="center" width="100%">
   <!-- Row 1: Top Tier / Live Demos -->
@@ -87,7 +89,7 @@
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-         <a href="https://github.com/rr3s1/auraaesthetics" target="_blank">💄 AuraAesthetics: Clinic Management System</a>
+         <a href="https://github.com/rr3s1/auraaesthetics" target="_blank">💄 AuraAesthetics: Beauty Clinic</a>
           <sup><a href="https://auraaesthetics.vercel.app" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">A comprehensive, full-stack clinic management system with patient registration, appointment scheduling, and an admin dashboard.</p>
@@ -129,7 +131,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ Real Estate Mobile React Native</a></h3>
+        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ RealEstate: Mobile React Native</a></h3>
         <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack.</p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
@@ -139,14 +141,14 @@
   <!-- Row 4: More Apps -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 Food Delivery Mobile React Native</a></h3>
+      <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 FoodDeliv: Mobile React Native</a></h3>
       <p align="center">A full-stack mobile app featuring search/filters, cart functionality, and Google Auth, powered by a scalable backend.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/mobile-movie-app">🎬 Movie Discovery React Native</a></h3>
+      <h3 align="center"><a href="https://github.com/rr3s1/mobile-movie-app">🎬 TMDB Movies: Mobile React Native</a></h3>
       <p align="center">A web app for browsing trending movies, searching titles, and exploring content using the TMDB API.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=ts,tailwind,appwrite,vite&perline=5" />
@@ -184,7 +186,7 @@
       </td>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://github.com/rr3s1/cocktails-gsap/" target="_blank">🍸 Mojito Cocktails: Awwwards-Style Animation</a>
+          <a href="https://github.com/rr3s1/cocktails-gsap/" target="_blank">🍸 Cocktails: GSAP Animations</a>
           <sup><a href="https://gsap-cocktails.vercel.app" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects and video-syncing.</p>
