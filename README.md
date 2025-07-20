@@ -24,39 +24,39 @@
 
 ---
 
-
-
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
+<p align="center">My favorite tools for building robust applications, organized by domain.</p>
 <table align="center" width="100%">
+  <!-- Row 1 -->
   <tr>
-    <td align="center">
-      <h4><strong>Frontend</strong></h4>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>Frontend & Mobile</strong></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css" /> <br>
-        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,vite,redux" />
+        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css" /> <br>
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,redux,vite" />
       </p>
     </td>
-    <td align="center">
-      <h4><strong>Mobile</strong></h4> <br>
-      <p>
-        <img src="https://skillicons.dev/icons?i=react,expo" /> <br>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td width="50%" valign="top" align="center">
       <h4><strong>Backend & Databases</strong></h4>
       <p>
         <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi" /> <br>
-        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,appwrite" />
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
       </p>
     </td>
-    <td align="center">
-      <h4><strong>DevOps & Cloud</strong></h4>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>Cloud & Infrastructure</strong></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,firebase,git" /> <br>
-        <img src="https://skillicons.dev/icons?i=githubactions,nginx" />
+        <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,firebase,appwrite" />
+      </p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4><strong>DevOps & Tooling</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions" />
       </p>
     </td>
   </tr>
@@ -207,10 +207,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr3s1&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
-</div>
 
 <br>
 
