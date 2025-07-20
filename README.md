@@ -56,7 +56,7 @@
     <td width="50%" valign="top" align="center">
       <h4><strong>DevOps & Tooling</strong></h4>
       <p>
-        <img src="https://skillicons.dev/icons?i=docker,nginx,git,githubactions" />
+        <img src="https://skillicons.dev/icons?i=docker,git,githubactions" />
       </p>
     </td>
   </tr>
@@ -76,18 +76,18 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">🌐 Modern Developer Portfolio</a> 
-          <sup><a href="https://github.com/rr3s1/portfolio" target="_blank">(Repo)</a></sup>
+          <a href="https://github.com/rr3s1/portfolio/" target="_blank">🌐 Developer Portfolio v1</a> 
+          <sup><a href="https://portfolio-nine-lime-35.vercel.app" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">An interactive and visually-rich personal portfolio built with advanced frontend technologies, 3D animations and modern UI/UX</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,tailwind&perline=6" />
+        <img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,tailwind&perline=5" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://auraaesthetics.vercel.app/" target="_blank">💄 Beauty Clinic Management System</a>
-          <sup><a href="https://github.com/rr3s1/auraaesthetics" target="_blank">(Repo)</a></sup>
+         <a href="https://github.com/rr3s1/auraaesthetics" target="_blank">💄 AuraAesthetics: Clinic Management System</a>
+          <sup><a href="https://auraaesthetics.vercel.app" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">A comprehensive, full-stack clinic management system with patient registration, appointment scheduling, and an admin dashboard.</p>
       <p align="center">
@@ -99,19 +99,19 @@
   <tr>
     <td width="50%" valign="top">
         <h3 align="center">
-            <a href="https://ai-interviews-system-roan.vercel.app/" target="_blank">🎙️ Prepwise: AI Interview Platform</a>
-            <sup><a href="https://github.com/rr3s1/ai-interviews-system" target="_blank">(Repo)</a></sup>
+          <a href="https://github.com/rr3s1/ai-interviews-system" target="_blank">🎙️ Prepwise: AI Interview Platform</a>
+            <sup><a href="https://ai-interviews-system.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
         <p align="center">An AI-powered platform for job interview preparation, featuring Vapi AI voice agents and real-time feedback from Google Gemini.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,gcp&perline=5" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase&perline=5" />
         </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/AI-resume-ATS">📄 AI Resume Analyzer (ATS)</a></h3>
+      <h3 align="center"><a href="https://github.com/rr3s1/AI-resume-ATS">📄 ResuMind: AI Resume Analyzer (ATS)</a></h3>
       <p align="center">A smart, AI-driven application that evaluates resumes against job listings, providing ATS scores and tailored feedback.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=5" />
       </p>
     </td>
   </tr>
@@ -119,16 +119,16 @@
   <tr>
     <td width="50%" valign="top">
         <h3 align="center">
-            <a href="https://book-wise-uni-library-omega.vercel.app/" target="_blank">📚 University Library System</a>
-            <sup><a href="https://github.com/rr3s1/BookWise-Uni-Library" target="_blank">(Repo)</a></sup>
+           <a href="https://github.com/rr3s1/BookWise-Uni-Library" target="_blank">📚 BookWise: University Library System</a>
+            <sup><a href="https://book-wise-uni-library.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
         <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind,drizzle&perline=6" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind&perline=5" />
         </p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ Real Estate Mobile App</a></h3>
+        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ Real Estate Mobile React Native</a></h3>
         <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack.</p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
@@ -138,17 +138,17 @@
   <!-- Row 4: More Apps -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 Food Delivery Mobile App</a></h3>
+      <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 Food Delivery Mobile React Native</a></h3>
       <p align="center">A full-stack mobile app featuring search/filters, cart functionality, and Google Auth, powered by a scalable backend.</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/mobile-movie-app">🎬 Movie Discovery App</a></h3>
+      <h3 align="center"><a href="https://github.com/rr3s1/mobile-movie-app">🎬 Movie Discovery React Native</a></h3>
       <p align="center">A web app for browsing trending movies, searching titles, and exploring content using the TMDB API.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite,vite&perline=5" />
+        <img src="https://skillicons.dev/icons?i=ts,tailwind,appwrite,vite&perline=5" />
       </p>
     </td>
   </tr>
@@ -158,14 +158,14 @@
       <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">🗓️ Healthcare Management System</a></h3>
       <p align="center">A full-stack patient management system allowing appointment booking, admin management and SMS notifications via Twilio.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
       </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">💾 File Storage & Sharing Platform</a></h3>
         <p align="center">A platform for file uploads, management, and sharing, featuring user authentication, file operations, and a dashboard.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,appwrite&perline=5" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
         </p>
       </td>
   </tr>
@@ -175,20 +175,22 @@
         <h3 align="center">
             <a href="https://apple-iphone-15-pro-five-self.vercel.app/" target="_blank">📱 Apple iPhone 15 Pro Website</a>
             <sup><a href="https://github.com/rr3s1/Apple-iPhone-15-pro" target="_blank">(Repo)</a></sup>
+          <a href="https://github.com/rr3s1/Apple-iPhone-15-pro" target="_blank">📱 Apple iPhone 15 Pro Website</a>
+            <sup><a href="https://iphone-doc.vercel.app/" target="_blank">(Repo)</a></sup>
         </h3>
         <p align="center">A showcase of an Apple-style product page featuring advanced 3D models, smooth animations, and a polished, modern interface.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,threejs,ts,tailwind,gsap&perline=5" />
+          <img src="https://skillicons.dev/icons?i=react,threejs,ts,tailwind&perline=5" />
         </p>
       </td>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://gsap-cocktails.vercel.app/" target="_blank">🍸 Awwwards-Style Animation Site</a>
+          <a href="https://gsap-cocktails.vercel.app/" target="_blank">🍸 Mojito Cocktails Awwwards-Style Animation</a>
           <sup><a href="https://github.com/rr3s1/cocktails-gsap" target="_blank">(Repo)</a></sup>
       </h3>
       <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects, and video-syncing.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=4" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=5" />
       </p>
     </td>
   </tr>
