@@ -1,84 +1,202 @@
+<!-- Animated Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20world!&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+</div>
+<!-- Dynamic Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=50&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+App+Specialist;AI+Integration+Expert;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
+</div>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=75" alt="header"/>
-</p>
- <br>
-
-
-<h3 align="center">
-  I'm a passionate developer specialised in modern web and mobile apps. 
-</h3>
-
-<br>
-<h1 align="center">
-  <a href="https://portfolio-nine-lime-35.vercel.app/">
-     Portfolio Landing Page
+<!-- Social Links with Warm Badges -->
+<div align="center" style="margin: 25px 0">
+  <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">
+    <!-- A bright, golden-yellow -->
+    <img src="https://img.shields.io/badge/Portfolio-FFBF00.svg?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-</h1>
-
-<br/>
-<br>
-<h1 align="center">
-💻 Tech Stack & Skills 💻
-</h1>
+  <a href="mailto:your-email@example.com">
+    <!-- A fiery orange-red -->
+    <img src="https://img.shields.io/badge/Gmail-FF5733.svg?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://github.com/rr3s1?tab=repositories">
+    <!-- A deep, sunset red -->
+    <img src="https://img.shields.io/badge/Projects-C70039.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
+<br /> 
 
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,nodejs,tailwind,threejs,docker,aws,postgres,mongodb,redis,python&perline=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rr3s1&theme=react&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
-<br>
-<br>
-<h2 align="center">🎯 Current Focus</h2>
-<div align="center">
-  <ul style="list-style-type: none; padding: 0;">
-    <h3>🔭 Working on <strong>Web Apps AI Integration</strong></h3>
-    <h3>👯 Looking to collaborate on <strong>Open Source Projects</strong></h3>
-  </ul>
-</div>
-<br><br>
 
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">Here are a few projects I've worked on, primarily as part of my learning journey. Full details and code are available in the repositories.</p>
+---
 
-<table align="center">
+
+
+<!-- Tech Stack Section -->
+<h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
+<table align="center" width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">Healthcare Management System</a></h3>
-      <p align="center">A full-stack patient management system allowing appointment booking, admin management and SMS notifications. Demonstrates skills in Next.js, TypeScript, Appwrite, TailwindCSS, ShadCN, and Twilio integration.</p><br>
+    <td align="center">
+      <h4><strong>Frontend</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css" /> <br>
+        <img src="https://skillicons.dev/icons?i=tailwind,sass,threejs,vite,redux" />
+      </p>
     </td>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">University Library System</a></h3>
-      <p align="center">Production-grade library platform with public/admin interfaces, book borrowing workflows, reminders via Resend, and robust user management using Next.js, TypeScript, PostgreSQL (NeonDB), Upstash (Redis), Drizzle ORM and ImageKit.</p><br>
+    <td align="center">
+      <h4><strong>Mobile</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=react,expo" /> <br>
+        <p>React Native</p>
+      </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">File Storage & Sharing Platform</a></h3>
-      <p align="center">A platform for file uploads, management, sharing and viewing using Next.js 15, React 19, Appwrite, TailwindCSS, ShadCN and TypeScript. Features include user auth, file operations and a dashboard.</p><br>
+    <td align="center">
+      <h4><strong>Backend & Databases</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,python,express,fastapi" /> <br>
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql,appwrite" />
+      </p>
     </td>
-    <td width="50%">
-       <h3 align="center"><a href="https://github.com/rr3s1/portfoli0_jsm">Modern Next.js Portfolio</a></h3>
-       <p align="center">An interactive portfolio landing page built with Next.js, Three.js for 3D elements, Framer Motion for animations, and TailwindCSS. Showcases modern frontend techniques and complex layouts like Bento Grids.</p><br>
+    <td align="center">
+      <h4><strong>DevOps & Cloud</strong></h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,aws,gcp,vercel,firebase,git" /> <br>
+        <img src="https://skillicons.dev/icons?i=githubactions,nginx" />
+      </p>
     </td>
+  </tr>
+</table>
+
+<br>
+
+---
+
+<br>
+<!-- Pinned / Featured Projects Section -->
+<h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
+<p align="center">A selection of projects that highlight my skills and interests. Full details in each repository.</p>
+<table align="center" width="100%">
+  <!-- Row 1: Top Tier / Live Demos -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+          <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">🌐 Modern Developer Portfolio</a> 
+          <sup><a href="https://github.com/rr3s1/portfolio" target="_blank">(Repo)</a></sup>
+      </h3>
+      <p align="center">An interactive and visually-rich personal portfolio built with advanced frontend technologies, 3D animations, and modern UI/UX principles.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,tailwind,framermotion,gsap&perline=6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+          <a href="https://auraaesthetics.vercel.app/" target="_blank">💄 Beauty Clinic Management System</a>
+          <sup><a href="https://github.com/rr3s1/auraaesthetics" target="_blank">(Repo)</a></sup>
+      </h3>
+      <p align="center">A comprehensive, full-stack clinic management system with patient registration, appointment scheduling, and an admin dashboard.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite,reactquery&perline=5" />
+      </p>
+    </td>
+  </tr>
+  <!-- Row 2: AI Focus -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/ai-interviews-system">🎙️ Prepwise: AI Interview Platform</a></h3>
+      <p align="center">An AI-powered platform for job interview preparation, featuring Vapi AI voice agents and real-time feedback from Google Gemini.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,gcp&perline=5" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/AI-resume-ATS">📄 AI Resume Analyzer (ATS)</a></h3>
+      <p align="center">A smart, AI-driven application that evaluates resumes against job listings, providing ATS scores and tailored feedback.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite&perline=4" />
+      </p>
+    </td>
+  </tr>
+    <!-- Row 3: Full-Stack Applications -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">📚 University Library System</a></h3>
+      <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind,drizzle&perline=6" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ Real Estate Mobile App</a></h3>
+        <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack.</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,expo,appwrite&perline=5" />
+        </p>
+      </td>
+  </tr>
+  <!-- Row 4: More Apps -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 Food Delivery Mobile App</a></h3>
+      <p align="center">A full-stack mobile app featuring search/filters, cart functionality, and Google Auth, powered by a scalable backend.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,expo,appwrite&perline=5" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/mobile-movie-app">🎬 Movie Discovery App</a></h3>
+      <p align="center">A web app for browsing trending movies, searching titles, and exploring content using the TMDB API.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite,vite&perline=5" />
+      </p>
+    </td>
+  </tr>
+  <!-- Row 5: Frontend & Utility Focus -->
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center"><a href="https://github.com/rr3s1/cocktails-gsap">🍸 GSAP Cocktail Animation Website</a></h3>
+      <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects, and video-syncing.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,gsap,tailwind,vite&perline=4" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">💾 File Storage & Sharing Platform</a></h3>
+        <p align="center">A platform for file uploads, management, and sharing, featuring user authentication, file operations, and a dashboard.</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,appwrite&perline=5" />
+        </p>
+      </td>
   </tr>
 </table>
 <br>
 
+---
+<!-- Stats Cards with Custom Warm Theme -->
+<div align="center" style="display: flex; justify-content: center; gap: 12px; flex-wrap: wrap; margin: 30px 0">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rr3s1&show_icons=true&hide_border=true&title_color=E74C3C&icon_color=E67E22&text_color=FFF8E1&bg_color=262626" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&layout=compact&hide_border=true&title_color=E74C3C&text_color=FFF8E1&bg_color=262626" />
+  <img height="165" src="https://streak-stats.demolab.com?user=rr3s1&hide_border=true&background=262626&stroke=FFF8E1&ring=E67E22&fire=E74C3C&currStreakNum=FFF8E1&sideNums=FFF8E1&currStreakLabel=FFF8E1&sideLabels=FFF8E1&dates=FFF8E1" />
+</div>
+
+<!-- GitHub Activity Visualization -->
+<h2 align="center">📈 Development Activity</h2>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr3s1&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+</p>
 
 <div align="center">
-  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=rr3s1&theme=react&show_icons=true&hide_border=true&count_private=true" alt="rr3s1's GitHub Stats" /> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rr3s1&theme=react&hide_border=true" alt="rr3s1's GitHub Streak" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rr3s1&theme=react&show_icons=true&hide_border=true&layout=compact" alt="rr3s1's GitHub Stats" />
 </div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rr3s1&bg_color=05343d&color=e2dae1&line=fafcf8&point=0b83f4&area=true&hide_border=true">
-</p>
+<div align="center">
+  <img src="github-snake.svg" alt="Snake animation" width="100%"/><br><br>
+</div>
 
 <br>
 
@@ -94,6 +212,9 @@
   
 </div>
 
-<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170§ion=footer" width="150%"/>
+---
+<!-- Footer Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer Banner"/>
+</div>
