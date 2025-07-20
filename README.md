@@ -1,26 +1,18 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20world!&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20🤍&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
 <!-- Dynamic Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=50&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=100&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
 </div>
-
+<br>
 <!-- Social Links with Warm Badges -->
-<div align="center" style="margin: 25px 0">
+<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">
-    <!-- A bright, golden-yellow -->
-    <img src="https://img.shields.io/badge/Portfolio-FFBF00.svg?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-7B42F6?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="mailto:your-email@example.com">
-    <!-- A fiery orange-red -->
-    <img src="https://img.shields.io/badge/Gmail-FF5733.svg?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/rr3s1?tab=repositories">
-    <!-- A deep, sunset red -->
-    <img src="https://img.shields.io/badge/Projects-C70039.svg?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+  
 </div>
 <br /> 
 
@@ -46,10 +38,9 @@
       </p>
     </td>
     <td align="center">
-      <h4><strong>Mobile</strong></h4>
+      <h4><strong>Mobile</strong></h4> <br>
       <p>
         <img src="https://skillicons.dev/icons?i=react,expo" /> <br>
-        <p>React Native</p>
       </p>
     </td>
   </tr>
@@ -87,9 +78,9 @@
           <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">🌐 Modern Developer Portfolio</a> 
           <sup><a href="https://github.com/rr3s1/portfolio" target="_blank">(Repo)</a></sup>
       </h3>
-      <p align="center">An interactive and visually-rich personal portfolio built with advanced frontend technologies, 3D animations, and modern UI/UX principles.</p>
+      <p align="center">An interactive and visually-rich personal portfolio built with advanced frontend technologies, 3D animations and modern UI/UX</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,tailwind,framermotion,gsap&perline=6" />
+        <img src="https://skillicons.dev/icons?i=nextjs,threejs,ts,tailwind&perline=6" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -99,18 +90,21 @@
       </h3>
       <p align="center">A comprehensive, full-stack clinic management system with patient registration, appointment scheduling, and an admin dashboard.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite,reactquery&perline=5" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
       </p>
     </td>
   </tr>
   <!-- Row 2: AI Focus -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/ai-interviews-system">🎙️ Prepwise: AI Interview Platform</a></h3>
-      <p align="center">An AI-powered platform for job interview preparation, featuring Vapi AI voice agents and real-time feedback from Google Gemini.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,gcp&perline=5" />
-      </p>
+        <h3 align="center">
+            <a href="https://ai-interviews-system-roan.vercel.app/" target="_blank">🎙️ Prepwise: AI Interview Platform</a>
+            <sup><a href="https://github.com/rr3s1/ai-interviews-system" target="_blank">(Repo)</a></sup>
+        </h3>
+        <p align="center">An AI-powered platform for job interview preparation, featuring Vapi AI voice agents and real-time feedback from Google Gemini.</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase,gcp&perline=5" />
+        </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/rr3s1/AI-resume-ATS">📄 AI Resume Analyzer (ATS)</a></h3>
@@ -123,17 +117,20 @@
     <!-- Row 3: Full-Stack Applications -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/BookWise-Uni-Library">📚 University Library System</a></h3>
-      <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management.</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind,drizzle&perline=6" />
-      </p>
+        <h3 align="center">
+            <a href="https://book-wise-uni-library-omega.vercel.app/" target="_blank">📚 University Library System</a>
+            <sup><a href="https://github.com/rr3s1/BookWise-Uni-Library" target="_blank">(Repo)</a></sup>
+        </h3>
+        <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management.</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind,drizzle&perline=6" />
+        </p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ Real Estate Mobile App</a></h3>
         <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,expo,appwrite&perline=5" />
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
         </p>
       </td>
   </tr>
@@ -143,7 +140,7 @@
       <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 Food Delivery Mobile App</a></h3>
       <p align="center">A full-stack mobile app featuring search/filters, cart functionality, and Google Auth, powered by a scalable backend.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,expo,appwrite&perline=5" />
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -154,13 +151,13 @@
       </p>
     </td>
   </tr>
-  <!-- Row 5: Frontend & Utility Focus -->
+  <!-- Row 5: Utility Focus -->
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/rr3s1/cocktails-gsap">🍸 GSAP Cocktail Animation Website</a></h3>
-      <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects, and video-syncing.</p>
+      <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">🗓️ Healthcare Management System</a></h3>
+      <p align="center">A full-stack patient management system allowing appointment booking, admin management and SMS notifications via Twilio.</p>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,gsap,tailwind,vite&perline=4" />
+        <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=4" />
       </p>
     </td>
     <td width="50%" valign="top">
@@ -170,6 +167,29 @@
           <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,appwrite&perline=5" />
         </p>
       </td>
+  </tr>
+    <!-- Row 6: High-End Frontend -->
+  <tr>
+    <td width="50%" valign="top">
+        <h3 align="center">
+            <a href="https://apple-iphone-15-pro-five-self.vercel.app/" target="_blank">📱 Apple iPhone 15 Pro Website</a>
+            <sup><a href="https://github.com/rr3s1/Apple-iPhone-15-pro" target="_blank">(Repo)</a></sup>
+        </h3>
+        <p align="center">A showcase of an Apple-style product page featuring advanced 3D models, smooth animations, and a polished, modern interface.</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,threejs,ts,tailwind,gsap&perline=5" />
+        </p>
+      </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+          <a href="https://gsap-cocktails.vercel.app/" target="_blank">🍸 Awwwards-Style Animation Site</a>
+          <sup><a href="https://github.com/rr3s1/cocktails-gsap" target="_blank">(Repo)</a></sup>
+      </h3>
+      <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects, and video-syncing.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=4" />
+      </p>
+    </td>
   </tr>
 </table>
 <br>
