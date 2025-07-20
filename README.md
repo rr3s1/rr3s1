@@ -1,6 +1,6 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Welcome%20🤍&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
 <!-- Dynamic Typing Animation -->
 <div align="center">
@@ -9,7 +9,7 @@
 <!-- Social Links with Warm Badges -->
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://portfolio-nine-lime-35.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B42F6?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio Landing Page-7B42F6?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   
 </div>
@@ -26,7 +26,6 @@
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
 <br>
-<p align="center">My favorite tools for building robust applications</p>
 <table align="center" width="100%">
   <!-- Row 1 -->
   <tr>
@@ -71,6 +70,8 @@
 <h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
 <br>
 <p align="center">A selection of projects that highlight my skills and interests. Full details in each repository.</p>
+<br>
+<p align="center">See 'Live Demo' for deployments</p>
 <table align="center" width="100%">
   <!-- Row 1: Top Tier / Live Demos -->
   <tr>
@@ -124,7 +125,7 @@
         </h3>
         <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management.</p>
         <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis,tailwind&perline=5" />
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis&perline=5" />
         </p>
     </td>
     <td width="50%" valign="top">
@@ -232,6 +233,7 @@
 
 ---
 <!-- Footer Banner -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=fadeIn" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=✨Thank%20you%20for%20visiting…%20May%20luck%20be%20the%20wind%20beneath%20your%20wings%20until%20we%20meet%20again%20🕊️&fontSize=18&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
