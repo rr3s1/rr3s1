@@ -173,10 +173,8 @@
   <tr>
     <td width="50%" valign="top">
         <h3 align="center">
-            <a href="https://apple-iphone-15-pro-five-self.vercel.app/" target="_blank">📱 Apple iPhone 15 Pro Website</a>
-            <sup><a href="https://github.com/rr3s1/Apple-iPhone-15-pro" target="_blank">(Repo)</a></sup>
-          <a href="https://github.com/rr3s1/Apple-iPhone-15-pro" target="_blank">📱 Apple iPhone 15 Pro Website</a>
-            <sup><a href="https://iphone-doc.vercel.app/" target="_blank">(Repo)</a></sup>
+          <a href="https://github.com/rr3s1/3D-iPhone15-GSAP" target="_blank">📱 Apple iPhone 15 Pro Website</a>
+            <sup><a href="https://iphone-doc.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
         <p align="center">A showcase of an Apple-style product page featuring advanced 3D models, smooth animations, and a polished, modern interface.</p>
         <p align="center">
@@ -185,7 +183,7 @@
       </td>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://gsap-cocktails.vercel.app/" target="_blank">🍸 Mojito Cocktails Awwwards-Style Animation</a>
+          <a href="https://gsap-cocktails.vercel.app/" target="_blank">🍸 Mojito Cocktails: Awwwards-Style Animation</a>
           <sup><a href="https://github.com/rr3s1/cocktails-gsap" target="_blank">(Repo)</a></sup>
       </h3>
       <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects, and video-syncing.</p>
