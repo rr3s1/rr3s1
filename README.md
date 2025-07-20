@@ -25,7 +25,8 @@
 
 <!-- Tech Stack Section -->
 <h2 align="center">🛠️ My Tech Stack & Tools 🛠️</h2>
-<p align="center">My favorite tools for building robust applications, organized by domain.</p>
+<br>
+<p align="center">My favorite tools for building robust applications</p>
 <table align="center" width="100%">
   <!-- Row 1 -->
   <tr>
@@ -68,6 +69,7 @@
 <br>
 <!-- Pinned / Featured Projects Section -->
 <h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
+<br>
 <p align="center">A selection of projects that highlight my skills and interests. Full details in each repository.</p>
 <table align="center" width="100%">
   <!-- Row 1: Top Tier / Live Demos -->
