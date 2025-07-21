@@ -72,7 +72,7 @@
 <h2 align="center">🚀 Featured Projects Showcase 🚀</h2>
 <br>
 <p align="center">A selection of projects that highlight my skills and interests. Full details in each repository.</p>
-<b
+<br>
 <p align="center">See 'Live Demo' for deployments</p>
 <table align="center" width="100%">
   <!-- Row 1: Top Tier / Live Demos -->
