@@ -105,7 +105,7 @@
           <a href="https://github.com/rr3s1/ai-interviews-system" target="_blank">🎙️ Prepwise: AI Interview Platform</a>
             <sup><a href="https://ai-interviews-system.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
-        <p align="center">An AI-powered platform for job interview preparation, featuring Vapi AI voice agents and real-time feedback from Google Gemini</p>
+        <p align="center">An AI-powered platform for interviews preparation, featuring Vapi AI voice agen and  feedback from Gemini AI</p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,firebase&perline=5" />
         </p>
@@ -176,10 +176,10 @@
   <tr>
     <td width="50%" valign="top">
         <h3 align="center">
-          <a href="https://github.com/rr3s1/3D-iPhone15-GSAP" target="_blank">📱 Apple iPhone 15 Pro Website</a>
+          <a href="https://github.com/rr3s1/3D-iPhone15-GSAP" target="_blank">📱 Apple iPhone  </a>
             <sup><a href="https://iphone-doc.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
-        <p align="center">A showcase of an Apple-style product page featuring advanced 3D models, smooth animations, and a polished, modern interface</p>
+        <p align="center">A showcase of an Apple-style product page featuring advanced 3D models, smooth animations and a polished, modern interface</p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=react,threejs,ts,tailwind&perline=5" />
         </p>
