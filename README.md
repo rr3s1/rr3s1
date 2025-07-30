@@ -1,7 +1,10 @@
 <!-- Animated Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20%20^_~&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
+
+![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
+
 <!-- Dynamic Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=100&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
