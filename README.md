@@ -187,7 +187,7 @@
     <td width="50%" valign="top">
       <h3 align="center">
           <a href="https://github.com/rr3s1/cocktails-gsap/" target="_blank">🍸 Cocktails GSAP</a>
-          <sup><a href="https://gsap-cocktails.vercel.app" target="_blank">(Live Demo)</a></sup>
+          <sup><a href="https://cocktails-gsap-nine.vercel.app/" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects and video-syncing</p>
       <p align="center">
