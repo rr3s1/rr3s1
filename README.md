@@ -125,7 +125,7 @@
 
 <tr>
     <td width="50%" valign="top">
-         <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">💈 Prestige Hair Salon</a>
+         <h3 align="center"><a href="https://github.com/rr3s1/prestige-salon">💈 Prestige Hair Salon</a>
            <sup><a href="https://prestige-salon.vercel.app/" target="_blank">(Live Demo)</a></sup>
          </h3>
       <p align="center">Designed to streamline appointment booking, marketing of services and client testimonials using React 19, Spline 3D and GSAP Animations.</p>
