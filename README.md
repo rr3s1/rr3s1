@@ -122,30 +122,34 @@
     </td>
   </tr>
     <!-- Row 3: Full-Stack Applications -->
-  <tr>
+
+<tr>
     <td width="50%" valign="top">
-        <h3 align="center">
-           <a href="https://github.com/rr3s1/BookWise-Uni-Library" target="_blank">📚 BookWise Library</a>
-            <sup><a href="https://book-wise-uni-library.vercel.app/" target="_blank">(Live Demo)</a></sup>
-        </h3>
-        <p align="center">A production-grade library platform with admin/public views, book borrowing workflows, and robust user management</p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis&perline=5" />
-        </p>
-    </td>
-    <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ RealEstate Mobile</a></h3>
-        <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack</p>
-        <p align="center">
-          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
-        </p>
+         <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">💈 Prestige Hair Salon</a>
+           <sup><a href="https://prestige-salon.vercel.app/" target="_blank">(Live Demo)</a></sup>
+         </h3>
+      <p align="center">Designed to streamline appointment booking, marketing of services and client testimonials using React 19, Spline 3D and GSAP Animations.</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,ts,tailwind,convex&perline=5" />
+      </p>
       </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+          <a href="https://github.com/rr3s1/cocktails-gsap/" target="_blank">🍸 Cocktails GSAP</a>
+          <sup><a href="https://cocktails-gsap-nine.vercel.app/" target="_blank">(Live Demo)</a></sup>
+      </h3>
+      <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects and video-syncing</p>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=5" />
+      </p>
+    </td>
   </tr>
+
   <!-- Row 4: More Apps -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/rr3s1/food-order-mobile">🍔 FoodDelivery Mobile</a></h3>
-      <p align="center">A full-stack mobile app featuring search/filters, cart functionality, and Google Auth, powered by a scalable backend</p>
+      <p align="center">A full-stack mobile app featuring search/filters, cart functionality and Google Auth, powered by a scalable backend</p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
       </p>
@@ -159,7 +163,27 @@
     </td>
   </tr>
   <!-- Row 5: Utility Focus -->
-  <tr>
+<tr>
+    <td width="50%" valign="top">
+        <h3 align="center">
+           <a href="https://github.com/rr3s1/BookWise-Uni-Library" target="_blank">📚 BookWise Library</a>
+            <sup><a href="https://book-wise-uni-library.vercel.app/" target="_blank">(Live Demo)</a></sup>
+        </h3>
+        <p align="center">A production-grade library platform with admin/public views, book borrowing workflows and robust user management</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,postgres,redis&perline=5" />
+        </p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/rr3s1/Real-Estate-MobileApp">🏘️ RealEstate Mobile</a></h3>
+        <p align="center">A full-stack mobile application for browsing real estate listings, built with a modern, cross-platform technology stack</p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=react,ts,tailwind,appwrite&perline=5" />
+        </p>
+      </td>
+  </tr>
+    <!-- Row 6:  -->
+    <tr>
     <td width="50%" valign="top">
       <h3 align="center"><a href="https://github.com/rr3s1/jsm_medical_schedule_app">🗓️ Healthcare Management</a></h3>
       <p align="center">A full-stack patient management system allowing appointment booking, admin management and SMS notifications via Twilio</p>
@@ -169,16 +193,17 @@
     </td>
     <td width="50%" valign="top">
         <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">💾 FileStorage System</a></h3>
-        <p align="center">A platform for file uploads, management, and sharing, featuring user authentication, file operations, and a dashboard</p>
+        <p align="center">A platform for file uploads, management, and sharing, featuring user authentication, file operations and a dashboard</p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
         </p>
       </td>
   </tr>
-    <!-- Row 6: High-End Frontend -->
-  <tr>
+     <!-- Row 7:  -->
+    <tr>
     <td width="50%" valign="top">
-        <h3 align="center">
+
+<h3 align="center">
           <a href="https://github.com/rr3s1/3D-iPhone15-GSAP" target="_blank">📱 Apple iPhone </a>
             <sup><a href="https://3d-iphone-gsap.vercel.app/" target="_blank">(Live Demo)</a></sup>
         </h3>
@@ -186,17 +211,14 @@
         <p align="center">
           <img src="https://skillicons.dev/icons?i=react,threejs,ts,tailwind&perline=5" />
         </p>
-      </td>
-    <td width="50%" valign="top">
-      <h3 align="center">
-          <a href="https://github.com/rr3s1/cocktails-gsap/" target="_blank">🍸 Cocktails GSAP</a>
-          <sup><a href="https://cocktails-gsap-nine.vercel.app/" target="_blank">(Live Demo)</a></sup>
-      </h3>
-      <p align="center">A visually stunning, scroll-driven website showcasing advanced GSAP animations, parallax effects and video-syncing</p>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,vite&perline=5" />
-      </p>
     </td>
+    <td width="50%" valign="top">
+        <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">🕹️ Zentry Awwwards</a></h3>
+        <p align="center">Modern Website inspired by Zentry, featuring scroll-triggered animations, geometric transitions and video storytelling. </p>
+        <p align="center">
+          <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
+        </p>
+      </td>
   </tr>
 </table>
 <br>
