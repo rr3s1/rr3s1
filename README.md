@@ -213,7 +213,7 @@
         </p>
     </td>
     <td width="50%" valign="top">
-        <h3 align="center"><a href="https://github.com/rr3s1/jsm_storeit">🕹️ Zentry Awwwards</a></h3>
+        <h3 align="center"><a href="https://github.com/rr3s1/awwWW">🕹️ Zentry Awwwards</a></h3>
         <p align="center">Modern Website inspired by Zentry, featuring scroll-triggered animations, geometric transitions and video storytelling. </p>
         <p align="center">
           <img src="https://skillicons.dev/icons?i=nextjs,ts,tailwind,appwrite&perline=5" />
