@@ -262,5 +262,5 @@
 <!-- Footer Banner -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=✨Thank%20you%20for%20visiting…%20May%20luck%20be%20the%20wind%20beneath%20your%20wings%20until%20we%20meet%20again%20🕊️&fontSize=18&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=✨Thank%20you%20for%20visiting…%20May%20luck%20stay%20with%20you%20until%20we%20meet%20again%20🕊️&fontSize=18&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
