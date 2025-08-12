@@ -82,8 +82,8 @@
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">
-          <a href="https://github.com/rr3s1/portfolio/" target="_blank">🌐 Portfolio v1</a> 
-          <sup><a href="https://portfolio-nine-lime-35.vercel.app" target="_blank">(Live Demo)</a></sup>
+          <a href="https://github.com/rr3s1/portfolio-v2/" target="_blank">🌐 Portfolio v2</a> 
+          <sup><a href="https://portfolio-v2-ashy-theta.vercel.app/" target="_blank">(Live Demo)</a></sup>
       </h3>
       <p align="center">An interactive and visually-rich personal portfolio built with advanced frontend technologies and 3D animations</p>
       <p align="center">
