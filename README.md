@@ -11,7 +11,7 @@
 </div>
 <!-- Social Links with Warm Badges -->
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
-  <a href="https://portfolio-v2-ashy-theta.vercel.app/" target="_blank">
+  <a href="https://portfolio-v3-srl.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio Landing Page-7B42F6?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   
