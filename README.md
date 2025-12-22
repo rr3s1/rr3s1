@@ -3,8 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=175&section=header&text=Hello!%20%20^_~&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff" alt="Header Banner"/>
 </div>
 
-![Banner](https://raw.githubusercontent.com/drewbi/drewbi/master/welcome_banner2.svg)
-
 <!-- Dynamic Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=100&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
@@ -16,19 +14,7 @@
   </a>
   
 </div>
-<br /> 
-<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
-  <a href="https://portfolio-v3-srl.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio Landing Page-7B42F6?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
-  
-</div>
-<br /> 
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rr3s1&theme=react&no-frame=true&row=2&column=4" alt="GitHub Trophies"/>
-</div>
 
 
 ---
