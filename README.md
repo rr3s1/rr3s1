@@ -10,7 +10,7 @@
 <!-- Social Links with Warm Badges -->
 <div align="center" style="margin-top: 25px; margin-bottom: 25px;">
   <a href="https://www.aesary.co.uk/" target="_blank">
-    <img src="https://img.shields.io/badge/aesary-F2A011?style=for-the-badge&logo=vercel&logoColor=white">
+    <img src="https://img.shields.io/badge/aesary-300A24?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   
 </div>
