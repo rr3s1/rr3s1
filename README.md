@@ -8,12 +8,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=3800&pause=800&color=38F2A0&center=true&vCenter=true&width=580&height=100&lines=Full-Stack+Developer;Modern+Web+%26+Mobile+Apps;AI+Integration;Continuous+Learner+%26+Builder" alt="Typing Animation"/>
 </div>
 <!-- Social Links with Warm Badges -->
-<div align="center" style="margin-top: 25px; margin-bottom: 25px;">
+<div align="center" style="margin: 50px 0;">
   <a href="https://www.aesary.co.uk/" target="_blank">
-    <img src="https://img.shields.io/badge/aesary-300A24?style=for-the-badge&logo=vercel&logoColor=white">
+    <kbd>
+      <img
+        src="https://img.shields.io/badge/aesary-053C42?style=for-the-badge&logoColor=white"
+        height="50"
+        alt="Aesary"
+      >
+    </kbd>
   </a>
-  
 </div>
+
+
 
 
 
