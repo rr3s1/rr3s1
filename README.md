@@ -20,8 +20,27 @@
   </a>
 </div>
 
+# Hi there, I'm Rares 👋
 
+I am a Full-Stack Software Engineer. My journey into software development was a natural evolution after spending over 5 years in enterprise IT support and systems administration. 
 
+Supporting hundreds of users daily gave me a deep, practical appreciation for software that is intuitive, reliable, and simply makes people's days easier. I transitioned into engineering because I wanted to be on the building side of that equation—creating the kind of seamless digital experiences that users love to interact with. 
+
+As a self-taught developer, I approach this industry with a lot of respect for the craft and a continuous desire to learn from the community. I enjoy the challenge of taking complex requirements and translating them into clean, highly performant, and visually engaging applications.
+
+### 🛠️ What I'm working with:
+* **Ecosystem:** React, Next.js, TypeScript, Node.js
+* **UI & Motion:** Tailwind CSS, Framer Motion, GSAP, Three.js *(I love exploring how to make the web more immersive)*
+* **Backend & Data:** Convex, Appwrite, PostgreSQL
+
+### 🌱 What I'm currently exploring:
+My focus is on the intersection of modern web architecture and artificial intelligence. I am actively exploring how to seamlessly integrate Generative AI and Voice Agents into full-stack applications to create smarter, more intuitive user experiences, while continually refining my skills in building real-time, high-performance systems.
+
+### 📫 Let's connect:
+I am always open to exchanging ideas, collaborating, or just having a good conversation about technology and design.
+
+* 🌐 **Portfolio:** [aesary](https://www.aesary.com)
+* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raressilviulazar/)
 
 
 ---
