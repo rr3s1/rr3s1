@@ -20,28 +20,50 @@
   </a>
 </div>
 
-# Hi there, I'm Rares 👋
+# Hi, I’m Rares 👋
 
-I am a Full-Stack Software Engineer. My journey into software development was a natural evolution after spending over 5 years in enterprise IT support and systems administration. 
+I design and build **intelligent, resilient digital systems**.
 
-Supporting hundreds of users daily gave me a deep, practical appreciation for software that is intuitive, reliable, and simply makes people's days easier. I transitioned into engineering because I wanted to be on the building side of that equation—creating the kind of seamless digital experiences that users love to interact with. 
+My path into software engineering didn’t start with code but with **systems**.
+After more than 5 years in enterprise IT support and administration, I learned how software behaves under pressure, where it breaks and what actually matters to real users.
 
-As a self-taught developer, I approach this industry with a lot of respect for the craft and a continuous desire to learn from the community. I enjoy the challenge of taking complex requirements and translating them into clean, highly performant, and visually engaging applications.
+That perspective shaped how I build today.
 
-### 🛠️ What I'm working with:
-* **Ecosystem:** React, Next.js, TypeScript, Node.js
-* **UI & Motion:** Tailwind CSS, Framer Motion, GSAP, Three.js *(I love exploring how to make the web more immersive)*
-* **Backend & Data:** Convex, Appwrite, PostgreSQL
+---
 
-### 🌱 What I'm currently exploring:
-My focus is on the intersection of modern web architecture and artificial intelligence. I am actively exploring how to seamlessly integrate Generative AI and Voice Agents into full-stack applications to create smarter, more intuitive user experiences, while continually refining my skills in building real-time, high-performance systems.
+### 🧠 My Approach
 
-### 📫 Let's connect:
-I am always open to exchanging ideas, collaborating, or just having a good conversation about technology and design.
+* Break complex problems into **clear, solvable components**
+* Design for **resilience, performance, and clarity**
+* Build experiences that are not just functional, but **intuitive and immersive**
 
-* 🌐 **Portfolio:** [aesary](https://www.aesary.com)
-* 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raressilviulazar/)
+I value depth over noise and I’m driven by solving problems that actually matter.
 
+---
+
+### ⚙️ Current Focus
+
+Right now, I’m exploring the intersection of:
+
+* **Full-stack architecture (React, Next.js, TypeScript)**
+* **Real-time systems & modern backend design**
+* **AI integration (Generative AI & Voice Agents)**
+
+My goal is simple:
+to create applications that are not just tools but **intelligent systems that adapt, respond and scale with users**.
+
+---
+
+### 🚀 Beyond Code
+
+I’m also building **Aesary**, where I focus on designing and engineering high-complexity digital platforms and AI-driven solutions.
+
+---
+
+### 📫 Let's Connect
+
+* 🌐 **Portfolio:** [https://www.aesary.com](https://www.aesary.com)
+* 💼 **LinkedIn:** [https://www.linkedin.com/in/raressilviulazar/](https://www.linkedin.com/in/raressilviulazar/)
 
 ---
 
