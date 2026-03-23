@@ -26,7 +26,7 @@ I design and build intelligent, resilient digital systems that matter.
 
 ### 🌱 My Journey
 
-My dream to become a software engineer sparked in **2019** during my first year at the **University of Roehampton, London**. Like many, I found my footing through **[Angela Yu's](https://www.linkedin.com/in/angela-yu1/)** legendary **[Udemy Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOopviYH_PGr0vIxHQlYi5w9O6kWz8oZPUwcwu25Fw0NJOVrNcR75)** which taught me that building software isn't just about syntax, it's about solving real problems.
+My dream to become a software engineer sparked in **2020** during my first year at the **University of Roehampton, London**. Like many, I found my footing through **[Angela Yu's](https://www.linkedin.com/in/angela-yu1/)** legendary **[Udemy Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOopviYH_PGr0vIxHQlYi5w9O6kWz8oZPUwcwu25Fw0NJOVrNcR75)** which taught me that building software isn't just about syntax, it's about solving real problems.
 
 After earning my **BSc Computer Science** degree in 2023, I didn't stop learning. I discovered the **[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)** YouTube channel created by **[Adrian Hajdin](https://www.linkedin.com/in/adrianhajdin/)**, where I deep-dived into modern full-stack development. His project-based approach helped me hone both frontend and backend skills, transforming theoretical knowledge into production-ready expertise.
 
