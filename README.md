@@ -20,47 +20,45 @@
   </a>
 </div>
 
-# Hi, I’m Rares 👋
+## Hi, I'm Rares 👋
 
-I design and build **intelligent, resilient digital systems**.
+I design and build intelligent, resilient digital systems that matter.
 
-My path into software engineering didn’t start with code but with **systems**.
-After more than 5 years in enterprise IT support and administration, I learned how software behaves under pressure, where it breaks and what actually matters to real users.
+### 🌱 My Journey
 
-That perspective shaped how I build today.
+My dream to become a software engineer sparked in **2019** during my first year at the **University of Roehampton, London**. Like many, I found my footing through **[Angela Yu's](https://www.linkedin.com/in/angela-yu1/)** legendary **[Udemy Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOopviYH_PGr0vIxHQlYi5w9O6kWz8oZPUwcwu25Fw0NJOVrNcR75)** which taught me that building software isn't just about syntax, it's about solving real problems.
 
----
+After earning my **BSc Computer Science** degree in 2023, I didn't stop learning. I discovered the **[JavaScript Mastery](https://www.youtube.com/@javascriptmastery)** YouTube channel created by **[Adrian Hajdin](https://www.linkedin.com/in/adrianhajdin/)**, where I deep-dived into modern full-stack development. His project-based approach helped me hone both frontend and backend skills, transforming theoretical knowledge into production-ready expertise.
+
+But my path wasn't linear. Before the code, I spent **5+ years in enterprise IT support and administration**. That experience taught me how software behaves under pressure, where it breaks, and what actually matters to real users. That perspective shapes everything I build today.
 
 ### 🧠 My Approach
 
-* Break complex problems into **clear, solvable components**
-* Design for **resilience, performance, and clarity**
-* Build experiences that are not just functional, but **intuitive and immersive**
-
-I value depth over noise and I’m driven by solving problems that actually matter.
-
----
+- **Break complex problems** into clear, solvable components
+- **Design for resilience**, performance, and clarity
+- **Build experiences** that are not just functional, but intuitive and immersive
+- **Value depth over noise** — I'm driven by solving problems that actually matter
 
 ### ⚙️ Current Focus
 
-Right now, I’m exploring the intersection of:
+Right now, I'm exploring the intersection of:
 
-* **Full-stack architecture (React, Next.js, TypeScript)**
-* **Real-time systems & modern backend design**
-* **AI integration (Generative AI & Voice Agents)**
+| Area | Technologies & Interests |
+|------|-------------------------|
+| **Full-stack Architecture** | React, Next.js, TypeScript, Node.js |
+| **Modern Backend** | Real-time systems, scalable APIs, cloud infrastructure |
+| **AI Integration** | Generative AI, Voice Agents, intelligent automation |
+| **Immersive UX** | Three.js, GSAP, 3D-enhanced experiences |
 
-My goal is simple:
-to create applications that are not just tools but **intelligent systems that adapt, respond and scale with users**.
-
----
+My goal is simple: **create applications that are not just tools, but intelligent systems** that adapt, respond, and scale with users.
 
 ### 🚀 Beyond Code
 
-I’m also building **Aesary**, where I focus on designing and engineering high-complexity digital platforms and AI-driven solutions.
+I'm also building **[Aesary](https://aesary.com)**, where I focus on designing and engineering high-complexity digital platforms and AI-driven solutions. I own projects end-to-end, from concept to deployment whether it's clinic management systems, AI-powered tools, or immersive web experiences.
 
 ---
 
-### 📫 Let's Connect
+**💬 Let's Connect:** I'm always open to discussing innovative projects, creative technologist roles or collaborating on something meaningful.
 
 * 🌐 **Portfolio:** [https://www.aesary.com](https://www.aesary.com)
 * 💼 **LinkedIn:** [https://www.linkedin.com/in/raressilviulazar/](https://www.linkedin.com/in/raressilviulazar/)
