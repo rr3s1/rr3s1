@@ -22,8 +22,6 @@
 
 ## Hi, I'm Rares 👋
 
-I design and build intelligent, resilient digital systems that matter.
-
 ### 🌱 My Journey
 
 My dream to become a software engineer sparked in **2020** during my first year at the **University of Roehampton, London**. Like many, I found my footing through **[Angela Yu](https://www.linkedin.com/in/angela-yu1/)'s** legendary **[Udemy Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOopviYH_PGr0vIxHQlYi5w9O6kWz8oZPUwcwu25Fw0NJOVrNcR75)** which taught me that building software isn't just about syntax, it's about solving real problems.
